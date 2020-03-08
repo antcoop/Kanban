@@ -7,3 +7,8 @@
 5. Updated this again
 6. Hey again
 7. Draw Pictures
+```
+  const name = function name() {
+    return "name";
+  };
+```
